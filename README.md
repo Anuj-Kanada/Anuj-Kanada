@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Anuj-Kanada
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ...
-- 💞️ Collab?? I’m looking to collaborate on Good and realastic business driven project.
-- 📫 How to reach me : via Github 
-- 😄 Pronouns: AK
-- ⚡ Fun fact: Joy or Code 
+ 
 
 
 <!---
