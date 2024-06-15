@@ -1,4 +1,14 @@
- 
+<h2 align="center">Hi!👋 <br>I am Anuj Kanada</h2>
+
+![Banner Image](./coding-freak.gif)
+
+
+
+
+
+
+    
+
 
 
 <!---
