@@ -2,9 +2,7 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=Anuj-Kanada&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Anuj-Kanada&label=Profile%20Views&color=0&icon=5&pretty=false" />
-</a>
+
 
 
     
