@@ -1,6 +1,6 @@
 <h2 align="center">Hi!👋 <br>I am Anuj Kanada</h2>
 
-# Gifs
+
 <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 
