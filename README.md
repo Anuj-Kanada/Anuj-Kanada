@@ -1,6 +1,5 @@
 <h2 align="center">Hi!👋 <br>I am Anuj Kanada</h2>
 
-![Banner Image](./coding-freak.gif)
 
 # 💫About Me :
 Hello there! I'm passionate about web development with a solid foundation in HTML, CSS, PHP, JavaScript, and MySQL. I thrive on crafting engaging and responsive web experiences that blend creativity with functionality. With hands-on experience in Magento development, I specialize in creating robust e-commerce solutions that meet both user needs and business goals. Whether it's customizing Magento extensions, optimizing performance, or ensuring seamless integration, I enjoy tackling challenges with a problem-solving mindset. Let's build something amazing together! 🚀
