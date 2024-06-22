@@ -1,6 +1,5 @@
 <h2 align="center">Hi!👋 <br>I am Anuj Kanada</h2>
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/VTtANKl0beDFQRLDTh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh">via GIPHY</a></p>
 
 # 💫About Me :
 Hello there! I'm passionate about web development with a solid foundation in HTML, CSS, PHP, JavaScript, and MySQL. I thrive on crafting engaging and responsive web experiences that blend creativity with functionality. With hands-on experience in Magento development, I specialize in creating robust e-commerce solutions that meet both user needs and business goals. Whether it's customizing Magento extensions, optimizing performance, or ensuring seamless integration, I enjoy tackling challenges with a problem-solving mindset. Let's build something amazing together! 🚀
