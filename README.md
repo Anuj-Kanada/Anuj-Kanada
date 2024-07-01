@@ -1,7 +1,7 @@
 
 <h2 align="center">Hi!👋 <br>I am Anuj Kanada</h2>
 
-<div align="center" heigth="50" width="50">![Banner Image](./coding-freak.gif)</div>
+![Banner Image](./coding-freak.gif)
 
 
 ---
