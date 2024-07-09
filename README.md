@@ -1,4 +1,4 @@
-<p align="center" heigth="10">
+<p align="center">
   <img src="https://res.cloudinary.com/dzxhn37ae/image/upload/v1715425278/uuciewpx74unm2fpus66.gif" alt="Banner">
 </p>
 
