@@ -1,34 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Crop GIF Example</title>
-  <style>
-    .crop-container {
-      width: 200px;      /* Width of the visible area */
-      height: 200px;     /* Height of the visible area */
-      overflow: hidden;  /* Hide the parts of the image that overflow */
-      position: relative;
-      display: inline-block;
-    }
-
-    .crop-container img {
-      object-fit: cover; /* Ensure the image covers the container */
-      width: 100%;       /* Fill the width of the container */
-      height: 100%;      /* Fill the height of the container */
-    }
-  </style>
-</head>
-<body>
-  <p align="center">
-    <div class="crop-container">
-      <img src="https://res.cloudinary.com/dzxhn37ae/image/upload/v1715425278/uuciewpx74unm2fpus66.gif" alt="Banner">
-    </div>
-  </p>
-</body>
-</html>
-
+<p align="center">
+  <img src="https://res.cloudinary.com/dzxhn37ae/image/upload/v1715425278/uuciewpx74unm2fpus66.gif" alt="Banner">
+</p>
 
 <h2 align="center">Hi!👋 <br>I'm Anuj Kanada</h2>
 
