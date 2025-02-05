@@ -1,5 +1,5 @@
 <p align="center">
-  <img height='1000'   src="https://res.cloudinary.com/dzxhn37ae/image/upload/v1715425278/uuciewpx74unm2fpus66.gif" alt="Banner">
+  <img width='1000'   src="https://res.cloudinary.com/dzxhn37ae/image/upload/v1715425278/uuciewpx74unm2fpus66.gif" alt="Banner">
 </p>
 
 <h2 align="center">Hi!👋 <br>I'm Anuj Kanada</h2>
